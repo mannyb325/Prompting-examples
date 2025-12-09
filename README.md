@@ -1,5 +1,3 @@
-# Proday
-A repo for proday
 
 The repo is intended to showcase best practices for Prompt Engineering.
 
