@@ -15,7 +15,7 @@ You'll also see how using **Custom Instructions** in Copilot can dramatically im
 ## Repository Structure
 
 ```
-Proday/
+Prompting-examples/
 ├── README.md
 ├── test.py
 ├── Custom-instructions-example/
